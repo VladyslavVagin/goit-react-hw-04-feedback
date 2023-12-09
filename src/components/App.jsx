@@ -1,4 +1,4 @@
-import { Component, useState } from 'react';
+import { Component } from 'react';
 import Statistics from './Statistics/Statistics';
 import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
 import Section from './Section/Section';
